@@ -30,7 +30,9 @@
     border: 2px solid #000;
 }
 
-#vierkant {
+#vierkantRechts {
+    margin-top: 25px;
+    margin-left: 10px;
     width: 108px;
     height: 105px;
     background-color: rgb(233, 233, 247);
@@ -83,4 +85,9 @@
 #nsLogo {
     margin-left: 415px;
     margin-top: -280px;
+}
+
+#clock {
+    margin-left: 20px;
+    margin-top: 20px;
 }
