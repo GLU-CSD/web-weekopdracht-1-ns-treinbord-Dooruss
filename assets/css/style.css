@@ -50,7 +50,15 @@
     height: 40px;
     background-color: rgb(255, 255, 255);
     border: 2px solid #ffffff;
+}
 
+#nextup {
+    margin-top: 85px;
+    width: 508px;
+    height: 40px;
+    background-color: rgb(81, 90, 210);
+    border: 2px solid #000000;
+    color: rgb(255, 255, 255)
 }
 
 #location {
@@ -59,10 +67,10 @@
     color: rgb(11, 10, 10)
 }
 
-#via{
+#via {
     font-size: 20px;
     margin-top: -20px;
-    color: rgb(11, 10, 10) 
+    color: rgb(11, 10, 10)
 }
 
 #traintype {
@@ -74,5 +82,5 @@
 
 #nsLogo {
     margin-left: 415px;
-    margin-top: -170px;
+    margin-top: -280px;
 }
